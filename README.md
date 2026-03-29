@@ -1,6 +1,6 @@
 # Azure AZ-104 Admin Lab
 
-This is a beginner Azure AZ-104 lab where I built a small production-style environment to practice core administrator skills.
+This is a beginner Azure AZ-104 lab where I built a small production style environment to practice core administrator skills.
 
 ---
 
