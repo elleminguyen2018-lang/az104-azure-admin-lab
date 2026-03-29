@@ -4,13 +4,13 @@ This is a beginner Azure AZ-104 lab where I built a small production style envir
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ![Architecture](architecture/az104-lab-diagram.png)
 
 ---
 
-## 🔧 What I built
+## What I built
 
 * Microsoft Entra ID (Users, Groups, RBAC)
 * Virtual Network with segmented subnets
@@ -23,7 +23,7 @@ This is a beginner Azure AZ-104 lab where I built a small production style envir
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Resource Group
 
